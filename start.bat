@@ -1,0 +1,1 @@
+myapp-v2.exe -i GESTAMPLOG.txt -o GESTAMP.xlsx
